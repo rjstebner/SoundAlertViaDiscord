@@ -10,7 +10,7 @@ LOUD_THRESHOLD = 16
 REALLY_LOUD_THRESHOLD = 50.0
 COOLDOWN = 5
 AUDIO_FILE = "No_Bonk_No.wav"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1403162415390261359/D_KA7jImNFdkzEsBZd-EMXGoe3PxK5tPzDg3xCwx-rNZRRV9Ouz7tyEwwAikk8zthvR3"
+DISCORD_WEBHOOK_URL = "Add your own url here"
 TRIGGER_LIMIT = 3        # max allowed triggers
 TRIGGER_WINDOW = 20      # seconds window
 
